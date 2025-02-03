@@ -1,0 +1,22 @@
+wp-config.php
+wp-content/et-cache/
+wp-content/wflogs/config-synced.php
+wp-content/ai1wm-backups
+wp-content/fonts
+wp-content/plugins
+debug.log
+uploads
+wp-content/mu-plugins
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.*.sw[op]
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.htaccess
+*.zip
